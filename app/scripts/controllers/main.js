@@ -15,5 +15,5 @@ angular.module('bloggerApp')
       'Karma'
     ];
 
-    $scope.appname = "MIKEBlogger"
+    $scope.appname = "MIKEBlogger";
   });
